@@ -212,6 +212,7 @@ API Documentation: [docs.lumiq.asia](https://docs.lumiq.asia)
 ## 📬 Contact
 
 - 🌐 Live product: [lumiq.asia](https://lumiq.asia)
+- 🏡 Also building: [elitepropai.com](https://elitepropai.com) (AI platform for real estate & professional services)
 - 💼 Portfolio: [github.com/kelvin-builds](https://github.com/kelvin-builds)
 - 📍 Location: Kuala Lumpur, Malaysia 🇲🇾
 
